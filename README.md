@@ -4,7 +4,7 @@
 This project critically examines the methodologies and findings presented in the paper "A Data-Driven Approach to Predicting Successes and Failures of Clinical Trials," which introduces a model for predicting drug toxicity in clinical trials. I evaluate different statistical considerations  to critique the methods used and explore the ethical implications of implementing such a model, appealing to the philosophical framework of Deontology to ultimately argue against its use.
 
 
-Project Overview
+## Project Overview
 This repository contains all files related to the final project for STOR 390: Moral Machine Learning.
 
 - 390_Final_Paper (PDF, RMD): The final paper’s text.
