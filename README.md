@@ -7,9 +7,9 @@ This project critically examines the methodologies and findings presented in the
 Project Overview
 This repository contains all files related to the final project for STOR 390: Moral Machine Learning.
 
-- PDF and RMD: The final paper’s text.
-- RMD and HTML: R coding files for a novel analysis where I attempted to verify the statistical results in the paper.
-- CSV: Dataset used to conduct the novel analysis.
+- 390_Final_Paper (PDF, RMD): The final paper’s text.
+- Novel_Analysis (RMD, PDF, HTML): R coding files for a novel analysis where I attempted to verify the statistical results in the paper.
+- PrOCTOR_training_df.CSV: Dataset used to conduct the novel analysis.
 
 
 Link to Prelimneary Midterm Project Repository:[ https://github.com/Licza/STOR-390-Final](https://github.com/Licza/STOR-390-Midterm/tree/main)
