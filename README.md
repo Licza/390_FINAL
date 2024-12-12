@@ -12,6 +12,6 @@ This repository contains all files related to the final project for STOR 390: Mo
 - PrOCTOR_training_df.CSV: Dataset used to conduct the novel analysis.
 
 
-Link to Prelimneary Midterm Project Repository:[https://github.com/Licza/STOR-390-Midterm/tree/main)
+Link to Prelimneary Midterm Project Repository:https://github.com/Licza/STOR-390-Midterm/tree/main
 
 Link to Project Workspace (As Provided in Cited Paper): https://github.com/kgayvert/PrOCTOR 
